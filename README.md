@@ -2,7 +2,7 @@
 This repository has different projects related to computer vision. Specifically, hand detection that is done by hand ML solution of [mediapipe](https://mediapipe.dev/).
 ### 1- hand_detection:
 This code will simply detect the hand and draw its connection as shown
-![hand landmarks](https://google.github.io/mediapipe/images/mobile/hand_crops.png)
+![hand landmarks](https://mediapipe.dev/images/mobile/hand_landmarks.png)
 ### 2- fingers_counter:
 This code will detect the hands and counts how many fingers are held up. The number of the fingers is displayed on the image.
 ![fingers counter illustration](fingers_counter.png)
